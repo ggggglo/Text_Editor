@@ -38,7 +38,7 @@ View on [Heroku](https://dashboard.heroku.com/apps/polar-hamlet-02123)
 ## Installation
 
 On your terminal:
-- Clone repository ()
+- Clone repository (https://github.com/ggggglo/Text_Editor)
 - Run `npm i` to install dependencies
 - Run `npm run start` from the root directory
 
